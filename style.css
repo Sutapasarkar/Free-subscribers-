@@ -1,0 +1,13 @@
+body {
+    font-size: 15pt;
+}
+h2{color: red;
+  background-color: yellow;
+}
+li{color: blue;
+  background-color: greenyellow;
+}
+input{color: black;
+  background-color: wheat;
+}
+    
